@@ -1,0 +1,69 @@
+*{
+    margin: 1%;
+    padding: 0%;
+}
+body
+{
+ background-color: #404040;
+ height: 100vh;
+ background-size:;
+ background-position: center;  
+}
+
+h2
+{
+    color: rgba(246, 237, 240, 0.773);
+    font-family: Verdana, Geneva, Tahoma, sans-serif, Helvetica, sans-serif;
+    font-size: 1.0cm;
+    text-shadow: 2px 2px #0c0c0c;
+    
+}
+h3
+{
+    color: aqua;
+    font-size: 0.6cm;
+}
+p
+{
+    text-align:justify;
+    color:whitesmoke;
+    font-size: 0.55cm;
+    font-stretch: condensed;
+}
+.logo img
+{
+    width: 150px;
+    height: auto;
+    float: left;
+}
+.box
+{
+background-color:#262525;
+border: 3px solid rgb(253, 252, 252);
+    max-width:; height:; 
+    padding: 40px;
+    margin: 80px;
+    float:left;
+}
+.shoe
+{
+    background-color: rgb(209, 210, 212);
+}
+span
+{
+    color: rgb(143, 24, 223);
+}
+
+.footer
+{
+    color: rgb(8, 8, 8);
+    margin-right: 600px;
+}
+.papa
+{
+    font-weight: bolder;
+    font-size: xx-large;
+    font-style: inherit;
+    font-kerning: inherit;
+    font-style: oblique;
+}
